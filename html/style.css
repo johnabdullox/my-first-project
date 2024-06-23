@@ -1,0 +1,40 @@
+h1{
+    background-color: yellow;
+    color: green;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p{
+    text-decoration: underline dashed gold;
+}
+
+h2{
+    color: bisque;
+    background-color: black;
+    text-align: end;
+    text-decoration: line-through;
+}
+
+h3{
+    color: blue;
+    background-color: beige;
+    text-align: right;
+    text-decoration: underline;
+}
+
+hr{
+    color: aqua;
+    background-color: blue;
+}
+
+.direction{
+    color: aqua;
+}
+
+.masha{
+    color: tomato;
+    background-color: turquoise;
+    
+}
+
